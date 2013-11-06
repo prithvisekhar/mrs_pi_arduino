@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>mrs_motors</name>
+  <description>ROS Nodes for an Motor control with arduino</description>
+
+  <version>0.1.0</version>
+  <maintainer email="ps.pagala@gmail.com">Prithvi Pagala</maintainer>
+  <license>BSD</license>
+  <url type="website">https://github.com/prithvisekhar/I2C_PI_2_Arduino.git</url>
+  <url type="repository">https://github.com/prithvisekhar/I2C_PI_2_Arduino.git</url>
+  <author>Prithvi Pagala</author>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+  
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+  
+</package>

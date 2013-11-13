@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="motor_control" pkg="mrs_motors" type="i2c_Motor.py" output="screen"/>
+</launch>
